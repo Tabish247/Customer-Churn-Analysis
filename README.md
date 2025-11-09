@@ -44,3 +44,5 @@ Churn is strongly driven by contract flexibility, early-tenure dissatisfaction, 
 - Target customers within first 12 months
 - Strengthen retention in high‑churn regions
 
+## Dashboard Interaction 
+ <a href="https://github.com/Tabish247/Customer-Churn-Analysis/blob/main/Screenshot%202025-11-09%20183310.png">View Dashboard</a>
